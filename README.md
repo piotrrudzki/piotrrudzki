@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Piotr 👋
 
-<!--
-**piotrrudzki/piotrrudzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst moving into **Data Analytics**. I turn business questions into SQL, numbers into decisions.
 
-Here are some ideas to get you started:
+**Stack:** SQL (PostgreSQL, T-SQL / SQL Server) · Power BI (DAX) · Python (pandas) · Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+**[Fraud Detection & Customer Risk Analytics](https://github.com/piotrrudzki/fraud-detection-risk-analytics)**
+Rule-based fraud risk score on 258k synthetic card transactions. Risk score v2 cut false positives by **78%** and raised precision from **64% to 88.5%**. PostgreSQL · Python · Power BI dashboard.
+
+### Currently learning
+Advanced SQL: window functions, query optimization and execution plans, PostgreSQL vs T-SQL.
+
+📫 [LinkedIn](www.linkedin.com/in/piotr-rudzki-4338a119b)
