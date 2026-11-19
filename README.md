@@ -2,7 +2,7 @@
 
 Business Analyst moving into **Data Analytics**. I turn business questions into SQL, numbers into decisions.
 
-**Stack:** SQL (PostgreSQL, T-SQL / SQL Server) · Power BI (DAX) · Python (pandas) · Excel
+**Stack:** Business Analyst → Data Analyst | SQL · PostgreSQL · T-SQL · Power BI · pandas · NumPy
 
 ### Featured project
 **[Fraud Detection & Customer Risk Analytics](https://github.com/piotrrudzki/fraud-detection-risk-analytics)**
