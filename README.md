@@ -11,4 +11,4 @@ Rule-based fraud risk score on 258k synthetic card transactions. Risk score v2 c
 ### Currently learning
 Advanced SQL: window functions, query optimization and execution plans, PostgreSQL vs T-SQL.
 
-📫 [LinkedIn](www.linkedin.com/in/piotr-rudzki-4338a119b)
+📫 [LinkedIn](https://www.linkedin.com/in/piotr-rudzki-4338a119b/)
